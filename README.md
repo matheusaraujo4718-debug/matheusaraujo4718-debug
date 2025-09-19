@@ -18,7 +18,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=matheusaraujo4718-debug.matheusaraujo4718-debug&"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=footer"/>
 ###
 
 <div align="left">
@@ -29,4 +28,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=footer"/>
